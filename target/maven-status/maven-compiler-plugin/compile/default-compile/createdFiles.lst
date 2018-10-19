@@ -1,0 +1,3 @@
+com\my\youtube\utils\ETLUtil.class
+com\my\youtube\etl\VideoETLMapper.class
+com\my\youtube\etl\VideoETLRunner.class
